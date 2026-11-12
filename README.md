@@ -4,7 +4,7 @@ Activity routines for a person and their dog: walking, jogging, and running toge
 
 Bilingual (Spanish and English) web app (PWA). Currently in prototype and validation stage.
 
-**Visual and behaviour reference:** the V17 prototype is kept in Google Drive (`DU·ON > 02 Prototipos y web > DUON_Pruebas_V17.html`). It is the reference for screens and behaviour, not production code.
+**Visual and behaviour reference:** the V17 prototype is in [`reference/DUON_Pruebas_V17.html`](reference/DUON_Pruebas_V17.html). It is the reference for screens and behaviour, not production code. The original is also in Google Drive (`DU·ON > 02 Prototipos y web > DUON_Pruebas_V17.html`).
 
 ## Decisions (v1)
 
