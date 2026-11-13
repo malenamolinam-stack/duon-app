@@ -7,6 +7,8 @@ export const strings = {
     sent: 'Revisa tu correo. Abre el enlace en este mismo navegador.',
     invalidEmail: 'Escribe un correo válido.',
     error: 'No pudimos enviar el enlace. Inténtalo de nuevo.',
+    signedIn: 'Entraste como',
+    signOut: 'Salir',
   },
   en: {
     title: 'Sign in to DU·ON',
@@ -16,6 +18,8 @@ export const strings = {
     sent: 'Check your inbox. Open the link in this same browser.',
     invalidEmail: 'Enter a valid email address.',
     error: 'We could not send the link. Please try again.',
+    signedIn: 'Signed in as',
+    signOut: 'Sign out',
   },
 };
 
