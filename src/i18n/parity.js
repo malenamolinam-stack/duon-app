@@ -2,10 +2,10 @@
 export function findParityGaps(strings) {
   const gaps = [];
   for (const key of Object.keys(strings.es)) {
-    if (!(key in strings.en)) gaps.push({ missingIn: 'en', key });
+    if (!Object.hasOwn(strings.en, key)) gaps.push({ missingIn: 'en', key });
   }
   for (const key of Object.keys(strings.en)) {
-    if (!(key in strings.es)) gaps.push({ missingIn: 'es', key });
+    if (!Object.hasOwn(strings.es, key)) gaps.push({ missingIn: 'es', key });
   }
   return gaps;
 }

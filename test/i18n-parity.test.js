@@ -26,3 +26,12 @@ test('reports a key that exists in en but not in es', () => {
 test('the real strings module has every Spanish key in English and the reverse', () => {
   assert.deepEqual(findParityGaps(strings), []);
 });
+
+// Break: a key named like an Object.prototype property (constructor) counts as present when absent.
+test('reports a key that only exists as an inherited prototype property', () => {
+  const gaps = findParityGaps({
+    es: { constructor: 'Constructor' },
+    en: {},
+  });
+  assert.deepEqual(gaps, [{ missingIn: 'en', key: 'constructor' }]);
+});
