@@ -27,6 +27,7 @@ export function renderSignIn(container) {
       return;
     }
     const error = await sendSignInLink(email);
+    if (error) console.error('Sign-in link failed:', error);
     message.textContent = error ? t.error : t.sent;
   });
 }
