@@ -48,3 +48,53 @@ Fuente: reseñas de la App Store (EE. UU.), Reddit y Facebook, leídas el 2026-1
 4. **El GPS da muchos problemas** (distancias falsas, gasto de batería, sigue rastreando). Buena decisión dejar el GPS fuera de la v1: medimos por tiempo.
 5. **No cobrar en el día 2.** Primero que la gente vea el valor.
 6. Que también funcione en la web es una ventaja: alguien se quejó de que CaminanDog no la tiene.
+
+---
+
+# Segunda búsqueda (hecha con ChatGPT) — noviembre 2026
+
+Fuente original: `docs/competencia-chatgpt-2026-11.pdf` (con los enlaces a cada conversación de Reddit).
+Ojo: son reseñas sueltas, no una muestra completa. Facebook quedó **sin verificar** (grupos privados).
+
+## Apps nuevas que no teníamos
+
+| App | Tienda | De qué se quejan | Qué nos enseña |
+|---|---|---|---|
+| **TreatWalk** | Google Play | El cronómetro falla; lenta; problemas al iniciar o terminar el paseo | Iniciar y terminar tiene que ser instantáneo y confiable |
+| **WoofTrax** (otra vez) | Google Play | Deja de registrar si grabas un video o abres otra app | Igual que antes: aguantar pantalla bloqueada y segundo plano |
+| **C25K** | App Store | No explica a qué velocidad correr ni cómo se relacionan los intervalos con la distancia | Explicar el ritmo con palabras sencillas («a paso que puedas platicar») |
+| **Map My Walk** | Google Play | Pierde el registro si la app no está abierta | Guardar la salida aunque se cierre la app |
+| **Marathon 26.2 Trainer** | App Store | Cobraron suscripción por funciones que la gente ya había comprado | Reglas de cobro claras y no quitar lo ya pagado |
+| **pawtrck** | (presentada en Reddit, ago. 2026) | Un corredor dijo que no cambiaría Strava por una app que solo suma estadísticas del perro | **No competir con Strava.** Ver abajo |
+
+## Lo que pide la gente en Reddit
+
+| Fecha | Dónde | Qué piden | Oportunidad |
+|---|---|---|---|
+| 12 sep 2026 | r/Strava | Perfiles de perro en Strava (279 votos) | Progreso compartido sin duplicar registros |
+| 5 nov 2025 | r/RunningWithDogs | Cómo registrar paseos con muchas paradas para olfatear | Distinguir descanso del perro de pausa del ejercicio |
+| 2025 | r/RunningWithDogs | Recursos para armar un plan de entrenamiento con su perro | Progresión clara para principiantes |
+| 2021 | r/RunningWithDogs | Empezar a correr desde cero con su labrador | Enseñar + sesiones para principiantes |
+| 2026 | r/RunningWithDogs | ¿Cuánta distancia es demasiado para mi perro? | Guía de bienestar **revisada por veterinario**; no prometer distancias «seguras» automáticas |
+
+## El hallazgo más importante
+Los corredores que ya usan Strava, Garmin o Runna **no van a cambiar de app** por ver estadísticas del perro.
+Nuestro usuario es otro: **quien quiere empezar a caminar o correr con su perro y no sabe cómo, cuánto ni cómo subir de nivel sin exigirle de más.** Eso coincide con Ana, nuestra persona.
+
+## Prioridades para DU·ON
+
+| Prioridad | Qué | Por qué |
+|---|---|---|
+| **Alta** | Primeros pasos y progresión para principiantes | Lo piden directo en Reddit |
+| **Alta** | Saber cuándo bajar el esfuerzo del perro (revisado por veterinario) | Preguntas sobre distancia y capacidad |
+| **Alta** | Que la salida nunca se pierda | Queja #1 en todas las tiendas |
+| Investigar | Pausas y descansos del perro dentro de la sesión | Experiencias con Strava |
+| Después | Estadísticas propias del perro | Probar antes si le sirven a principiantes |
+| Después | Conectar con Strava y relojes | No meterlo en la v1 sin pedirlo la gente |
+
+**Conclusión:** con esto no se agrega ninguna función nueva a la v1. Confirma el enfoque actual: plan sencillo para principiantes, bienestar del perro primero, y que la salida se guarde siempre.
+
+## Pendiente para completar la investigación
+- Una muestra solo de reseñas de 1 estrella (no se hizo).
+- Facebook: conversaciones que se puedan verificar.
+- Hablar con usuarios en México (se hará con la encuesta y en el Día 6).
