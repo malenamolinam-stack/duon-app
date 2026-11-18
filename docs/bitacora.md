@@ -28,7 +28,7 @@ Una entrada por día, la más nueva arriba. Plan que seguimos: «Plan 3 — app 
 **Pendiente**
 - Día 1: conseguir un Android para pruebas (prestado sirve).
 - Día 3: buscar en Upwork y elegir 3 perfiles; mandar los 2 correos.
-- Día 5: la encuesta con correo YA FUNCIONA (probado 2026-11-18: el correo de prueba llegó a «Correos para futuras pruebas»). Falta probarla en Android. Borrar el correo de prueba antes de contar los 50.
+- Día 5: la encuesta con correo YA FUNCIONA (probado 2026-11-18: el correo de prueba llegó a «Correos para futuras pruebas»). Probada en iPhone. Falta probarla en Android. Borrar el correo de prueba antes de contar los 50.
 - Día 5: que el botón de la página duon-dos-ritmos lleve a la encuesta.
 
 **Mañana**
