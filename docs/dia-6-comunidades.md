@@ -65,4 +65,5 @@ Para veterinarias y paseadores, agrega: «Me encantaría saber qué preguntas le
 ## 6. Registro
 | Fecha | Lugar | Qué hice | Respuestas | Correos nuevos |
 |---|---|---|---|---|
+| 2026-11-18 | Páginas de Facebook de Mérida (Mascontentas Mid, Pata de Perro, La Gran Manada, Colitas, MID DOG K9, Club Manada Canina…) | Correo pidiendo permiso para publicar (`docs/correos-paginas-facebook.md`) | Esperando | — |
 | | | | | |

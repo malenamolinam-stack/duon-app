@@ -31,5 +31,10 @@ Una entrada por día, la más nueva arriba. Plan que seguimos: «Plan 3 — app 
 - Día 5: la encuesta con correo YA FUNCIONA (probado 2026-11-18: el correo de prueba llegó a «Correos para futuras pruebas»). Probada en iPhone. Falta probarla en Android. Borrar el correo de prueba antes de contar los 50.
 - Día 5: HECHO. duon-dos-ritmos → prototipo → «Cuéntanos cómo te fue» → encuesta. (Opcional: el enlace usa la dirección vieja aptscarf16, que redirige sola a la nueva.)
 
+**Día 6 (empezado hoy)**
+- Lista de comunidades, preguntas y mensaje directo en `docs/dia-6-comunidades.md`.
+- Correos enviados a páginas de Facebook de Mérida pidiendo permiso para publicar (2026-11-18). Si no contestan, seguimiento corto por Messenger/WhatsApp el 2026-11-23.
+- El correo 2 (asesoría) se manda a los adiestradores solo después de que respondan.
+
 **Mañana**
-- Lo pendiente de arriba, luego Día 6: encontrar a tu gente (grupos y comunidades de dueños de perros).
+- Revisar respuestas de los correos. Publicar en el grupo «Amigos Corredores en Mérida» (leer reglas) y empezar los 20 mensajes directos. Lo pendiente de arriba, luego Día 6: encontrar a tu gente (grupos y comunidades de dueños de perros).
