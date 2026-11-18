@@ -19,10 +19,17 @@ Una entrada por día, la más nueva arriba. Plan que seguimos: «Plan 3 — app 
 **Decidido hoy**
 - La app tiene que funcionar en iPhone y en Android, no solo en la web. Se agregaron pruebas en Android al plan (Día 1: conseguir un Android prestado).
 
+**Hecho también hoy (tarde)**
+- Día 3: veterinario. UADY puede ayudar hasta enero. Perfil y correos listos en `docs/buscar-especialista.md` (Upwork + Canine Rehabilitation Institute + ACVSMR). Preguntas en español en `docs/preguntas-veterinario.md`.
+- Día 4: competencia hecha (EE. UU., México y Google Play) en `docs/competencia.md`.
+- Día 5: NO hace falta Carrd ni comprar dominio. Ya existen la página https://duon-dos-ritmos.malenamolinam.chatgpt.site/, el prototipo con encuesta https://two-stride-demo.malenamolinam.chatgpt.site/ y el dominio duon.com.mx.
+- A la encuesta se le agregó correo opcional (si responde «Sí» o «Tal vez» a otra prueba), con casilla aparte, guardado en tabla separada. Aviso de privacidad actualizado (versión 2026-11-18) con privacidad@duon.com.mx.
+
 **Pendiente**
 - Día 1: conseguir un Android para pruebas (prestado sirve).
-- Día 3: enviar las preguntas al veterinario (`docs/vet-review-questions.md`), si no se ha hecho.
-- Día 4: revisión de competencia (3 apps y de qué se quejan sus usuarios).
+- Día 3: buscar en Upwork y elegir 3 perfiles; mandar los 2 correos.
+- Día 5: probar la encuesta en iPhone y Android dejando un correo de prueba, y revisar que llegue a la tabla de correos.
+- Día 5: que el botón de la página duon-dos-ritmos lleve a la encuesta.
 
 **Mañana**
-- Lo que quede de lo anterior, luego Día 5 del plan.
+- Lo pendiente de arriba, luego Día 6: encontrar a tu gente (grupos y comunidades de dueños de perros).
