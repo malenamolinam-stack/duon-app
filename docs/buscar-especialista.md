@@ -7,7 +7,7 @@ La UADY puede ayudar en **enero de 2027**. Mientras tanto se busca en línea. La
 - Ideal: certificación en rehabilitación o medicina deportiva canina (CCRT, CCRP o diplomado ACVSMR).
 - Experiencia revisando contenido de salud animal (*medical reviewer*).
 - Que entregue las respuestas **por escrito** y acepte que se mencione su revisión.
-- Plus: habla español y conoce clima caluroso y húmedo.
+- Plus: conoce clima caluroso y húmedo. (El español no es necesario.)
 
 ## Upwork
 - Las búsquedas de perfiles requieren cuenta. Lo más eficaz es **publicar un trabajo** (texto abajo) y dejar que se postulen.
@@ -26,7 +26,7 @@ We are building DU·ON, a mobile web app that helps beginners start walking, jog
 Our first users live in Mérida, Mexico (hot and humid most of the year).
 
 Deliverable: written answers to the 10 questions (we send them on hire), with sources where possible.
-Requirements: DVM; canine rehabilitation or sports medicine certification (CCRT, CCRP or ACVSMR) strongly preferred; experience reviewing pet health content. Spanish is a plus.
+Requirements: DVM; canine rehabilitation or sports medicine certification (CCRT, CCRP or ACVSMR) strongly preferred; experience reviewing pet health content.
 Please include your credentials and a fixed price.
 
 ## Otras fuentes de especialistas (más especializadas)
@@ -37,3 +37,50 @@ Please include your credentials and a fixed price.
 - Cuesta US$5 al unirse + unos US$35 al mes (es una **suscripción que se renueva sola**; la FTC de EE. UU. demandó a la empresa por eso).
 - Sirve para una duda rápida, **no** para la revisión formal: no entregan credenciales verificables ni un documento firmado.
 - Si se usa: hacer las preguntas en un mes y **cancelar la suscripción** el mismo día.
+
+## Cómo buscar en Upwork (paso a paso)
+1. Menú **Find talent** → buscar con estas palabras, una a la vez:
+   - `veterinarian canine rehabilitation`
+   - `veterinary sports medicine`
+   - `CCRT veterinarian`
+   - `veterinary medical reviewer`
+2. Filtros: **Job Success 90%+**, **Hourly rate hasta US$80**, idioma inglés.
+3. Revisa que el perfil diga **DVM** y, si se puede, **CCRT / CCRP / rehabilitation / sports medicine**.
+4. Descarta perfiles de solo «content writer» sin experiencia clínica.
+5. Elige 3, envíales el trabajo publicado con **Invite to job** y pide precio fijo.
+
+## Correo 1 — Canine Rehabilitation Institute
+**Para:** el correo de contacto de caninerehabinstitute.com
+**Asunto:** Looking for a CCRT veterinarian for a short written review (small budget)
+
+Hello,
+
+I am building DU·ON, a small app that helps beginners start walking and jogging together with their dog, with very gradual routines. I am based in Mérida, Mexico, where it is hot and humid most of the year.
+
+Before any real person uses the app, I want a qualified veterinarian to review our safety rules. I have 10 short written questions (heat limits, session length by size and age, progression, rest days, stop signals, brachycephalic breeds, and similar).
+
+Could you share this with your CCRT graduates, or point me to someone who does remote consultations or content reviews? I am a self-funded founder, so my budget is limited (around US$250–300 for written answers). I am happy to credit the reviewer in the app if they agree.
+
+Thank you very much for your time.
+
+Best regards,
+[Tu nombre]
+DU·ON — Mérida, Mexico
+
+## Correo 2 — ACVSMR
+**Para:** el correo de contacto de vsmr.org
+**Asunto:** Request for a referral: canine exercise safety review for a small app
+
+Hello,
+
+I am the founder of DU·ON, a small app for beginners who want to start walking and jogging with their dog. Animal welfare comes first in the app: if a dog shows discomfort, the next routine automatically becomes easier.
+
+I am looking for a veterinary sports medicine specialist (or resident) who could answer 10 written questions about safe exercise for dogs: heat and humidity limits, duration by size and age, progression, rest, stop signals, and breeds that need extra care. Our first users live in Mérida, Mexico (hot and humid climate).
+
+Would you be able to refer me to a diplomate or resident who accepts small remote consultations? I am self-funded and can offer around US$250–300 for written answers, and I would gladly credit them in the app.
+
+Thank you for your help.
+
+Kind regards,
+[Tu nombre]
+DU·ON — Mérida, Mexico
