@@ -53,7 +53,7 @@ Al final, **solo si las reglas lo permiten**, agrega:
 > Estoy creando una app gratuita para empezar a moverse con tu perro cuidando a los dos. Si quieren probar el prototipo (5 min, sin salir a correr): https://duon-dos-ritmos.malenamolinam.chatgpt.site/
 
 ## 4. Mensaje directo (amigos, paseadores, veterinarias)
-> Hola, [nombre]. Soy Malena, de Mérida. Estoy creando DU·ON, una app gratuita para que personas y perros empiecen a caminar o correr juntos, cuidando primero al perro. Tengo un prototipo y una encuesta de 4 minutos; no hay que salir a hacer ejercicio. ¿Me ayudarías a probarlo o compartirlo con tus clientes? https://duon-dos-ritmos.malenamolinam.chatgpt.site/ ¡Gracias!
+> Hola, [nombre]. Soy [Tu nombre], de Mérida. Estoy creando DU·ON, una app gratuita para que personas y perros empiecen a caminar o correr juntos, cuidando primero al perro. Tengo un prototipo y una encuesta de 4 minutos; no hay que salir a hacer ejercicio. ¿Me ayudarías a probarlo o compartirlo con tus clientes? https://duon-dos-ritmos.malenamolinam.chatgpt.site/ ¡Gracias!
 
 Para veterinarias y paseadores, agrega: «Me encantaría saber qué preguntas les hacen los dueños sobre el ejercicio de sus perros».
 
