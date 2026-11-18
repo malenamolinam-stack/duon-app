@@ -27,8 +27,8 @@ Una entrada por día, la más nueva arriba. Plan que seguimos: «Plan 3 — app 
 
 **Pendiente**
 - Día 1: conseguir un Android para pruebas (prestado sirve).
-- Día 3: buscar en Upwork y elegir 3 perfiles; mandar los 2 correos.
-- Día 5: la encuesta con correo YA FUNCIONA (probado 2026-11-18: el correo de prueba llegó a «Correos para futuras pruebas»). Probada en iPhone. Falta probarla en Android. Borrar el correo de prueba antes de contar los 50.
+- Día 3: HECHO (2026-11-18). 3 perfiles de Upwork elegidos y contactados; correos enviados al Canine Rehabilitation Institute y a ACVSMR. Esperando respuestas.
+- Día 5: la encuesta con correo YA FUNCIONA (probado 2026-11-18: el correo de prueba llegó a «Correos para futuras pruebas»). Probada en iPhone. Falta probarla en Android. Correo de prueba ya borrado: la tabla empieza en 0 (meta: 50).
 - Día 5: HECHO. duon-dos-ritmos → prototipo → «Cuéntanos cómo te fue» → encuesta. (Opcional: el enlace usa la dirección vieja aptscarf16, que redirige sola a la nueva.)
 
 **Día 6 (empezado hoy)**
@@ -38,5 +38,6 @@ Una entrada por día, la más nueva arriba. Plan que seguimos: «Plan 3 — app 
 
 **Mañana**
 - Revisar respuestas de los correos. Publicar en el grupo «Amigos Corredores en Mérida» (leer reglas) y empezar los 20 mensajes directos.
-- Si hay tiempo: Upwork (3 perfiles), correos al Canine Rehabilitation Institute y ACVSMR, conseguir Android.
+- Revisar respuestas de Upwork, Canine Rehabilitation Institute y ACVSMR. Comparar precios antes de decidir.
+- Conseguir Android.
 - Después: Día 7, videos cortos.
