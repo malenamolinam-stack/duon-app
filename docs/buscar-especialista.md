@@ -57,6 +57,8 @@ Hello,
 
 I am building DU·ON, a small app that helps beginners start walking and jogging together with their dog, with very gradual routines. I am based in Mérida, Mexico, where it is hot and humid most of the year.
 
+You can see the concept here (switch to EN at the top): https://duon-dos-ritmos.malenamolinam.chatgpt.site/
+
 Before any real person uses the app, I want a qualified veterinarian to review our safety rules. I have 10 short written questions (heat limits, session length by size and age, progression, rest days, stop signals, brachycephalic breeds, and similar).
 
 Could you share this with your CCRT graduates, or point me to someone who does remote consultations or content reviews? I am a self-funded founder with a limited budget. The scope is small: written answers to 10 questions, probably 2–3 hours of work. What would a reviewer typically charge for something like this? I am happy to credit the reviewer in the app if they agree.
@@ -74,6 +76,8 @@ DU·ON — Mérida, Mexico
 Hello,
 
 I am the founder of DU·ON, a small app for beginners who want to start walking and jogging with their dog. Animal welfare comes first in the app: if a dog shows discomfort, the next routine automatically becomes easier.
+
+You can see the concept here (switch to EN at the top): https://duon-dos-ritmos.malenamolinam.chatgpt.site/
 
 I am looking for a veterinary sports medicine specialist (or resident) who could answer 10 written questions about safe exercise for dogs: heat and humidity limits, duration by size and age, progression, rest, stop signals, and breeds that need extra care. Our first users live in Mérida, Mexico (hot and humid climate).
 
