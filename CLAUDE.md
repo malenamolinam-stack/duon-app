@@ -25,4 +25,6 @@ Al empezar cada sesión de trabajo en DU·ON, antes de cualquier otra cosa:
 3. Cuando algo se pueda probar, probarlo: la dueña lo prueba en su iPhone y se corre `npm test`. Si funciona, commit.
 4. Al terminar, anotar en `docs/bitacora.md`: qué se hizo hoy, qué quedó pendiente y qué toca mañana.
 
+Requisito: la app debe funcionar en celular, en iPhone (Safari) y en Android (Chrome), además de en la web. Toda tarea se prueba en los dos.
+
 Hablar en español sencillo. Los comandos van cada uno en su propio bloque `bash`.
