@@ -46,7 +46,7 @@ Please include your credentials and a fixed price.
    - `veterinary medical reviewer`
 2. Filtros: **Job Success 90%+**, **Hourly rate hasta US$80**, idioma inglés.
 3. Revisa que el perfil diga **DVM** y, si se puede, **CCRT / CCRP / rehabilitation / sports medicine**.
-4. Descarta perfiles de solo «content writer» sin experiencia clínica.
+4. Descarta a quien **no** sea veterinario con práctica clínica (redactores de mascotas sin título). Un veterinario con clínica que además escribe contenido **sí sirve**.
 5. Elige 3, envíales el trabajo publicado con **Invite to job** y pide precio fijo.
 
 ## Correo 1 — Canine Rehabilitation Institute
@@ -59,7 +59,7 @@ I am building DU·ON, a small app that helps beginners start walking and jogging
 
 Before any real person uses the app, I want a qualified veterinarian to review our safety rules. I have 10 short written questions (heat limits, session length by size and age, progression, rest days, stop signals, brachycephalic breeds, and similar).
 
-Could you share this with your CCRT graduates, or point me to someone who does remote consultations or content reviews? I am a self-funded founder, so my budget is limited (around US$250–300 for written answers). I am happy to credit the reviewer in the app if they agree.
+Could you share this with your CCRT graduates, or point me to someone who does remote consultations or content reviews? I am a self-funded founder with a limited budget. The scope is small: written answers to 10 questions, probably 2–3 hours of work. What would a reviewer typically charge for something like this? I am happy to credit the reviewer in the app if they agree.
 
 Thank you very much for your time.
 
@@ -77,7 +77,7 @@ I am the founder of DU·ON, a small app for beginners who want to start walking 
 
 I am looking for a veterinary sports medicine specialist (or resident) who could answer 10 written questions about safe exercise for dogs: heat and humidity limits, duration by size and age, progression, rest, stop signals, and breeds that need extra care. Our first users live in Mérida, Mexico (hot and humid climate).
 
-Would you be able to refer me to a diplomate or resident who accepts small remote consultations? I am self-funded and can offer around US$250–300 for written answers, and I would gladly credit them in the app.
+Would you be able to refer me to a diplomate or resident who accepts small remote consultations? The scope is small (written answers, probably 2–3 hours of work) and I am self-funded. What would be a typical fee for a review like this? I would gladly credit them in the app.
 
 Thank you for your help.
 
