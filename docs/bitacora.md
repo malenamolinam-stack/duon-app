@@ -37,4 +37,6 @@ Una entrada por día, la más nueva arriba. Plan que seguimos: «Plan 3 — app 
 - El correo 2 (asesoría) se manda a los adiestradores solo después de que respondan.
 
 **Mañana**
-- Revisar respuestas de los correos. Publicar en el grupo «Amigos Corredores en Mérida» (leer reglas) y empezar los 20 mensajes directos. Lo pendiente de arriba, luego Día 6: encontrar a tu gente (grupos y comunidades de dueños de perros).
+- Revisar respuestas de los correos. Publicar en el grupo «Amigos Corredores en Mérida» (leer reglas) y empezar los 20 mensajes directos.
+- Si hay tiempo: Upwork (3 perfiles), correos al Canine Rehabilitation Institute y ACVSMR, conseguir Android.
+- Después: Día 7, videos cortos.
