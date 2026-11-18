@@ -7,7 +7,9 @@
 | [La Gran Manada MX](https://www.facebook.com/LaGranManadaMX) | Club de socialización canina en Gran Santa Fe (≈950 seguidores) | 1 |
 | [MID DOG K9](https://www.facebook.com/mid.dogk9) | Adiestramiento canino, Mérida Centro | 1 y después 2 |
 | [Club Manada Canina](https://www.facebook.com/clubmanadacanina) | Clases grupales de adiestramiento, Mérida | 1 y después 2 |
-| [Página 1](https://www.facebook.com/profile.php?id=61554861727409) · [Página 2](https://www.facebook.com/profile.php?id=61554595264654) · [Página 3](https://www.facebook.com/profile.php?id=61590863432400) | No pude ver qué son (Facebook no deja leerlas desde aquí) | Revisar y elegir |
+| [Mascontentas Mid](https://www.facebook.com/profile.php?id=61554861727409) (o la otra de las dos primeras ligas) | Guardería y pensión de perros y gatos, Col. Petcanché (221 seguidores). Correo: mascontentasmid@gmail.com · WhatsApp 999 990 5410 | 1 (con la línea para guardería) |
+| [Pata de Perro](https://www.facebook.com/profile.php?id=61554595264654) (o la otra de las dos primeras ligas) | Percheros artesanales para correas (13 seguidores). Correo: patadeperromid@gmail.com · Tel. 999 337 5734 | 1 (con la línea para negocio pequeño). Prioridad baja: pocos seguidores |
+| [Página 3](https://www.facebook.com/profile.php?id=61590863432400) | No sé qué es todavía | Revisar |
 
 ---
 
@@ -36,6 +38,12 @@ DU·ON · Mérida, Yucatán
 
 **Línea extra para el refugio (Hogar Colitas MID):** ponla antes de «Muchas gracias»:
 > Con gusto comparto también en mis redes sus perritos en adopción o sus campañas de ayuda.
+
+**Línea extra para la guardería (Mascontentas Mid):**
+> Ustedes conviven todos los días con perros de energía muy distinta: me encantaría saber qué dudas les comentan los dueños sobre cuánto pasear o ejercitar a su perro.
+
+**Línea extra para negocio pequeño (Pata de Perro):**
+> Vi que también participan mucho con La Gran Manada MX; me encantaría que nos apoyemos entre proyectos locales de Mérida y con gusto comparto sus percheros en mis redes.
 
 **Línea extra para adiestradores y clubes:** ponla antes de «Muchas gracias»:
 > Me interesa mucho su opinión como adiestradores: ¿qué dudas les hacen los dueños sobre pasear o hacer ejercicio con su perro?
