@@ -11,6 +11,7 @@ Promesa para quien entra: "Aquí la app se hace con tus ideas. Lo que pidas, lo 
 ## Dónde vive
 
 1. **Grupo de Facebook** como espacio principal. Ahí los miembros pueden hablar entre ellos, y ahí ya están los grupos de perros y de corredores en México.
+   La **página de empresa** de DU·ON se queda como la cara pública (anuncios, Messenger, conexión con Instagram). El grupo se crea **desde la página**, así las administradoras publican como DU·ON. Privacidad del grupo: **Privado y visible**, para que lo encuentren pero solo los miembros vean las fotos.
 2. **Canal de difusión de Instagram** para avisos cortos: novedades de la app, recordatorio de la encuesta, retos de la semana.
 3. **TikTok** solo para que te descubran. Desde ahí se invita al grupo.
 
@@ -65,8 +66,8 @@ Si alguien rompe las reglas, primero avisamos. Si se repite, salimos del grupo a
 >
 > **Para empezar:**
 > 1. Preséntate en los comentarios con una foto de tu perro: cómo se llama y qué les gusta hacer juntos.
-> 2. Prueba la app: {{link app}}
-> 3. Cuéntanos tu experiencia en la encuesta (5 minutos): {{link encuesta}}
+> 2. Prueba la app: https://prueba.duon.com.mx/#inicio
+> 3. Cuéntanos tu experiencia en la encuesta (5 minutos): https://prueba.duon.com.mx/encuesta.html
 >
 > Cada mes publicamos qué cambiamos gracias a sus respuestas.
 >
@@ -74,7 +75,7 @@ Si alguien rompe las reglas, primero avisamos. Si se repite, salimos del grupo a
 
 ## Mensaje de bienvenida por DM o Messenger (para cada persona nueva)
 
-> ¡Hola {{nombre}}! Gracias por unirte a DU·ON 🐾 Me encantaría conocer a {{nombre del perro}}. Cuando tengas un ratito, preséntalo en el post de bienvenida. Y si ya probaste la app, tu opinión en la encuesta nos ayuda muchísimo: {{link encuesta}}
+> ¡Hola {{nombre}}! Gracias por unirte a DU·ON 🐾 Me encantaría conocer a {{nombre del perro}}. Cuando tengas un ratito, preséntalo en el post de bienvenida. Y si ya probaste la app, tu opinión en la encuesta nos ayuda muchísimo: https://prueba.duon.com.mx/encuesta.html
 
 ## Rituales semanales
 
@@ -103,7 +104,6 @@ Revisar una vez al mes, con los números de Facebook e Instagram:
 
 ## Antes de publicar
 
-- [ ] Completar `{{link app}}` y `{{link encuesta}}`.
 - [ ] La encuesta tiene aviso de privacidad (LFPDPPP, pendiente de revisión legal según el README).
 - [ ] Las reglas 2 y 3 se revisan con el veterinario o revisor de ejercicio canino.
 - [ ] Definir quién revisa el grupo cada día.
