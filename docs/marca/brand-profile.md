@@ -1,10 +1,11 @@
 # Perfil de marca: DU·ON
-<!-- versión: 1.0 · actualizado: 2026-11-24 · revisar: cada trimestre o si cambia la app · tipo: app de consumo en validación -->
+<!-- versión: 1.1 · actualizado: 2026-11-24 · revisar: cada trimestre o si cambia la app · tipo: app de consumo en validación -->
 
 ## Identidad
 - **Qué es (una frase):** DU·ON es una app gratuita que te arma rutinas para caminar, trotar o correr con tu perro, pensadas para los dos: tu ritmo y el suyo.
 - **Categoría:** bienestar y ejercicio con mascotas.
 - **Origen:** Mérida, Yucatán, México. Hecha por Malena Molina, diseñadora gráfica e ilustradora.
+- **Ambición:** nace en México, pensada para ser internacional desde el día uno.
 - **Etapa:** prototipo en validación, gratis para quien la prueba.
 
 ## Posicionamiento
@@ -20,7 +21,13 @@
 Malena salió a correr con su perro a mediodía, con el calor de Mérida, y su perro casi muere por un golpe de calor. Ella siempre pensó en su propia resistencia, nunca en la de él. Después supo de un bulldog que murió corriendo porque su raza no está hecha para ese esfuerzo. De ahí salió la pregunta: ¿por qué no hay una app que nos oriente para salir con nuestro perro sin ponerlo en peligro?
 
 - Es la historia más fuerte de la marca. Se cuenta en primera persona, con cariño y sin dramatismo, para que otros no pasen por lo mismo. Nunca para asustar.
-- **Pendiente de confirmar con Malena:** si se puede contar la historia del bulldog (es de un amigo; contarla sin nombre ni detalles que lo identifiquen) y si quiere mencionar a Manza y a Mateo.
+- **La historia del bulldog: aprobada.** Se cuenta sin nombre ni detalles que identifiquen al amigo ni al perro.
+- **Historias de la comunidad:** se buscan más historias reales como estas en redes y en el grupo. Reglas:
+  1. Pedir permiso a quien la contó antes de usarla, y darle crédito si así lo quiere.
+  2. No publicar capturas de pantalla de nadie sin su permiso.
+  3. Contarla con cariño, sin culpar a la persona.
+  4. Cerrar siempre con qué hacer distinto y "consulta a tu vet".
+- **Manza y Mateo:** no se mencionan. Decisión de Malena.
 
 ## Audiencia
 ### Segmento 1: "Quiero empezar, pero sin que sea un sufrimiento"
@@ -49,7 +56,7 @@ Malena salió a correr con su perro a mediodía, con el calor de Mérida, y su p
   - con energía, nunca exigente ni de "no pain, no gain"
   - informada, nunca sabelotodo ni regañona
   - cercana, nunca engreída ni pretenciosa
-- **Palabras que usamos:** dupla, tu perro / tu compa de cuatro patas, salir juntos, a su ritmo, a tu ritmo, vuelta, paseo, huellas, "los dos", "escúchalo", tú (nunca usted, salvo en Facebook con el segmento 2 si se siente más natural).
+- **Palabras que usamos:** Milo, dupla, tu perro / tu compañero de cuatro patas, salir juntos, a su ritmo, a tu ritmo, vuelta, paseo, huellas, "los dos", "escúchalo", tú (nunca usted, salvo en Facebook con el segmento 2 si se siente más natural).
 - **Palabras prohibidas:** dueño (preferimos "tu perro y tú"), entrenar a tu perro (no es adiestramiento), "sin excusas", "no seas flojo", "quema calorías", "transforma tu vida", "el mejor", "revolucionario", "obligatorio", tecnicismos veterinarios sin explicar.
 - **Cosas difíciles:**
   - *Errores de la app:* reconocerlos sin rodeos, agradecer el reporte y contar cuándo se arregló.
@@ -60,7 +67,7 @@ Malena salió a correr con su perro a mediodía, con el calor de Mérida, y su p
   - *TikTok/Reels:* más humor y energía; el perro protagoniza.
   - *Facebook:* más clara y explicativa, para el segmento 2.
   - *Grupo:* conversación, preguntas y agradecimientos.
-- **Pronunciación:** DU·ON se pronuncia "dú-on" (*por confirmar*).
+- **Pronunciación:** DU·ON se pronuncia "dú-on" (confirmado). Milo se pronuncia "mí-lo" en los dos idiomas.
 
 ## Prueba
 - **Números:** ninguno todavía. **No inventar.** Cuando haya datos del piloto (personas que regresan, sesiones completadas) se agregan aquí.
@@ -77,12 +84,15 @@ Malena salió a correr con su perro a mediodía, con el calor de Mérida, y su p
 ## Canales
 - **Plataformas:** Instagram, TikTok, página de Facebook + grupo vinculado.
 - **Frecuencia inicial:** 3 posts por semana y stories diarias.
-- **Cuentas:** *pendiente: @ de DU·ON en cada red.* Cuenta personal de Malena: @yamtoyam (cómics); no se mezcla salvo que ella decida.
-- **Idioma y mercado:** español de México. La app también está en inglés, pero las redes arrancan solo en español.
+- **Cuentas:** Instagram https://www.instagram.com/duonapp/ · TikTok https://www.tiktok.com/@duonapp · página de Facebook + grupo. Cuenta personal de Malena: @yamtoyam (cómics); no se mezcla salvo que ella decida.
+- **Idioma y mercado:** las redes arrancan en español; la meta es internacional. Usar un español neutro, que se entienda en toda Latinoamérica y España, y evitar modismos muy locales en los textos fijos (bio, carruseles). El inglés llega después, con la misma voz.
 
 ## Defaults operativos
-- **Cara de la marca:** el perro, no la fundadora. Malena no sale en video. *(Pendiente: ¿un perro ilustrado como mascota, perros reales de la comunidad, o los dos?)*
-- **IA y medios sintéticos:** *pendiente de decidir.* Propuesta: sin clonar voces ni crear personas falsas; si una imagen o un video lo hace la IA, se avisa en el post.
+- **Cara de la marca: Milo.** Perro ilustrado, macho, naranja con pecho, patas y punta de la cola blancos, orejas al viento, siempre sonriente, collar verde de DU·ON. Tamaño mediano (42 cm a la cruz). Malena no sale en video.
+  - **Personalidad:** feliz, curioso y con ganas de salir, pero también es quien "avisa" cuando hace calor o está cansado. Es la voz del perro dentro de la dupla.
+  - **Estilo visual:** ilustración 2D plana con textura suave, tonos verdes y crema, como en el arte original. **Nunca 3D tipo Pixar.**
+  - Los perros reales de la comunidad pueden aparecer junto a Milo, con permiso.
+- **IA y medios sintéticos (confirmado):** no se clonan voces ni se crean personas falsas. Si una imagen o un video lo hace la IA, se avisa en el post. Milo no se genera en 3D.
 - **Accesibilidad:** texto alternativo en cada imagen y subtítulos siempre en video (mucha gente ve sin sonido).
 - **Identidad visual:** ver el kit de marca (logo, colores, tipografía); no se duplica aquí.
 
@@ -93,11 +103,11 @@ Malena salió a correr con su perro a mediodía, con el calor de Mérida, y su p
 - **Miedo y culpa:** la historia del golpe de calor se cuenta para cuidar, no para asustar. Nada de imágenes de perros sufriendo.
 - **Competencia:** no mencionarla.
 - **Datos personales:** la encuesta lleva aviso de privacidad (LFPDPPP).
-- **Duelo:** Manza y Mateo murieron recientemente. Solo se mencionan si Malena lo decide, y como ella lo decida.
+- **Duelo:** Manza y Mateo no se mencionan en la marca. Decisión de Malena.
 
 ## Ejemplos de posts
 - **Nos gustan:** *pendiente: 3 a 5 cuentas o posts que a Malena le gusten, con una línea de por qué.*
-- **No nos gustan:** *pendiente: 1 o 2.*
+- **No nos gustan:** el estilo 3D tipo Pixar. DU·ON se ve ilustrado y hecho a mano.
 
 ## Notas
 - **Pilares de contenido propuestos** (se afinan con `content-pillars`):
@@ -105,5 +115,6 @@ Malena salió a correr con su perro a mediodía, con el calor de Mérida, y su p
   2. **Escucha a tu perro:** señales de cansancio, calor e hidratación, explicadas con cariño y siempre con "consulta a tu vet".
   3. **Empezar sin sufrir:** humor para el segmento 1, rutinas que no se sienten como tarea.
   4. **Hecha con ustedes:** la comunidad, la encuesta y "lo que cambiamos gracias a ti".
-- **Ventaja enorme:** Malena ilustra cómics. Un cómic corto de la dupla puede ser el formato propio de la marca.
-- **Temporada:** en Mérida el calor fuerte va de marzo a septiembre. Contenido de calor y horarios en esos meses.
+- **Ventaja enorme:** Malena ilustra cómics. Un cómic corto de Milo y su persona puede ser el formato propio de la marca.
+- **Hashtag propio:** #MiloDeDUON ("Milo" solo es un nombre de perro muy común y se pierde).
+- **Temporada:** en Mérida el calor fuerte va de marzo a septiembre, pero la audiencia es internacional: el contenido de calor se publica también en el verano de cada hemisferio.
