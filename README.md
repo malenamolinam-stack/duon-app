@@ -9,6 +9,7 @@ Bilingual (Spanish and English) web app (PWA). Currently in prototype and valida
 ## Decisions (v1)
 
 ### Product
+- Product principle: **one rhythm, one pair** (*un ritmo, una dupla*). Duon is for the person and the dog equally: every screen, plan and piece of content must show the benefit for both and find a pace that works for the two of them, never one following the other.
 - Activity routines, not behaviour training.
 - Web app (PWA), installable from the browser.
 - Spanish and English at launch, with full parity on every screen.
